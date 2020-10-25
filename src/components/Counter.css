@@ -1,0 +1,17 @@
+.btn {
+    border: 1px solid greenyellow;
+    border-radius: 3px;
+
+    font-family: monospace;
+}
+
+.output {
+    color: palevioletred;
+    display: block;
+}
+
+.container {
+    margin: 0 auto;
+    width: 200px;
+
+}
